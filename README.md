@@ -93,3 +93,7 @@ Cost-effective development as a single codebase serves all platforms.
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/21cd4351-baf6-4e07-8073-a74195e5cb1d)
+
+![Image](https://github.com/user-attachments/assets/a0daa218-a969-4a5c-823c-63dbe97984f6)
+
